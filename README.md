@@ -13,5 +13,13 @@
     git commit -m 'Just debbug it' - small note without need to open code editor 
     touch .gitignore - make a gitignore where you can add all of files to be ignored
     git remote add origin /link/  - the line from repositionry 
+    
     git push -u origin master
 
+    IF ERROR  
+    
+    git fetch origin master
+    git merge origin master
+    git fetch origin master:tmp
+    git rebase tmp
+    git push origin HEAD:master
