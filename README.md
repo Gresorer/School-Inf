@@ -23,3 +23,9 @@
     git fetch origin master:tmp
     git rebase tmp
     git push origin HEAD:master
+
+    CLONE REPOSITORY
+    
+    git clone /link of repository/
+    
+    git pull - get new files if other person do change
