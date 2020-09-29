@@ -128,7 +128,11 @@ def INPUT():
         print('Account created ' + accountCreated + ' on email: ' + setEmail + ' and password ' + setPassword)
     else:
         accountCreated = 'Failed'
-        print('Something go wrong, try again!')
+        print('Something go wrong, try again!\n')
         
-INPUT()
-print('x')
+#INPUT()
+
+SCHOOL2902_INTRO = '############################## SCHOOL2902 ##############################'
+print(SCHOOL2902_INTRO, '\n')
+
+

@@ -1,0 +1,2 @@
+liczba parzysta')
+else:
