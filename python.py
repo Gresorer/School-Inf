@@ -131,3 +131,4 @@ def INPUT():
         print('Something go wrong, try again!')
         
 INPUT()
+print('x')
