@@ -70,6 +70,4 @@ def ZAD7():
                 x2 = (-b+math.sqrt(delta))/2*a
             print(x1,x2)
 
-
-def WHILE_1():
-    
+#https://teams.microsoft.com/_#/pdf/viewer/teams/https:~2F~2Fliceumkozy.sharepoint.com~2Fsites~2FRozszerzenie~2FShared%20Documents~2FGeneral~2F9%20p%C4%99tle%20-%20while...pdf?threadId=19:103b364ff1004eeaa204600170f99f7f@thread.tacv2&baseUrl=https:~2F~2Fliceumkozy.sharepoint.com~2Fsites~2FRozszerzenie&fileId=1a4e3067-77c1-4048-abea-6a54a705f160&ctx=files&rootContext=items_view&viewerAction=view

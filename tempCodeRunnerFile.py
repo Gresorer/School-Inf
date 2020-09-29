@@ -1,2 +1,2 @@
-liczba parzysta')
-else:
+
+    if​ a == ​3​:
