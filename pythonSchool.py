@@ -26,3 +26,18 @@
 #     b = r
 #     i += 1
 # print('NWD: ' + str(a) + str(i))
+# 
+# suma = 0
+# ile = 0
+# while True:
+#     x = int(input('Podaj liczbe: '))
+#     suma += x
+#     if x == 0:
+#         break
+#     ile += 1
+# print(suma, ile)
+x = int(input('Podaj liczbe: '))
+niep = 1
+while 0<=x:
+    print(niep)
+    niep+=2
