@@ -36,8 +36,44 @@
 #         break
 #     ile += 1
 # print(suma, ile)
-x = int(input('Podaj liczbe: '))
-niep = 1
-while 0<=x:
-    print(niep)
-    niep+=2
+
+# x = int(input('Podaj liczbe: '))
+# niep = 1
+# while 0<=x:
+#     print(niep)
+#     niep+=2
+
+# a = int(input('Podaj a:'))
+# b = int(input('Podaj b:'))
+# i = 1
+# while a<b:
+#     if a%3==0 or a%8==0:
+#         print(a)
+#     a+=1
+
+# for x in range(10):
+#     print(x+1,'Grzegorz')
+
+# x = int(input('Podaj liczbe: '))
+# sum = 0
+# for x in range(1, x):
+#     sum += x
+# print(sum/x)
+
+# a = int(input('Podaj a:'))
+# b = int(input('Podaj b:'))
+# i = 0
+# for x in range(a, b):
+#     i = i*x
+# print(i)
+
+# a = int(input('Podaj a:'))
+# for x in range(0, a):
+#     if x%3==0 or x%4==0:
+#         print(x)
+
+# for x in range(5):
+#     for x in range(10):
+#         print('|', end='')
+#     print('')
+    
